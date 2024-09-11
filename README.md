@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ranimhassine)](https://github.com/ranimhassine)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=++++++Electronics+and+Communication+Engineer;Cybersecurity+Specialist;SIEM+Expert;Network+Security+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=+++++++++++Electronics+and+Communication+Engineer;Cybersecurity+Specialist;SIEM+Expert;Network+Security+Enthusiast" alt="Typing SVG" />
 </p>
 
 ## 🎓 Education
