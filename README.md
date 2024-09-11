@@ -46,7 +46,7 @@
 ## 🌟 Volunteer Work
 
 - **HR Manager** at Tunisian Space Association ENET'COM Club (Jan 2024 - May 2024)
-- [**Cybersecurity Instructor**]([./Certificates/GDSC_Certificate.pdf](https://github.com/ranimhassine/My-resume/issues/1#issue-2520115195)) at Google Developers Student Club ENET'COM (May 2023 - May 2024)
+- [**Cybersecurity Instructor**]([[./Certificates/GDSC_Certificate.pdf](https://github.com/ranimhassine/My-resume/issues/1#issue-2520115195)](https://github.com/ranimhassine/My-resume/blob/main/ipoc.jpg)) at Google Developers Student Club ENET'COM (May 2023 - May 2024)
 - [**Active Member**](https://github.com/ranimhassine/My-resume/blob/main/GDSC%20Certificate%20of%20Completion%20-%20Ranim%20Hassine.pdf) of 4C: Career Center and Skills Certification ENETCOM School Program (Sep 2022 - Present)
 
 ## 📊 GitHub Stats
