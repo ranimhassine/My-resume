@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ranimhassine)](https://github.com/ranimhassine)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Electronics+and+Communication+Engineer;Cybersecurity+Specialist;SIEM+Expert;Network+Security+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Electronics+and+CommunicationEngineer;Cybersecurity+Specialist;SIEM+Expert;Network+Security+Enthusiast" alt="Typing SVG" />
 </p>
 
 ## 🎓 Education
@@ -46,7 +46,7 @@
 ## 🌟 Volunteer Work
 
 - **HR Manager** at Tunisian Space Association ENET'COM Club (Jan 2024 - May 2024)
-- [**Cybersecurity Instructor**](./Certificates/GDSC_Certificate.pdf) at Google Developers Student Club ENET'COM (May 2023 - May 2024)
+- [**Cybersecurity Instructor**]([./Certificates/GDSC_Certificate.pdf](https://github.com/ranimhassine/My-resume/issues/1#issue-2520115195)) at Google Developers Student Club ENET'COM (May 2023 - May 2024)
 - [**Active Member**](./Certificates/IPOC_Certificate.pdf) of 4C: Career Center and Skills Certification ENETCOM School Program (Sep 2022 - Present)
 
 ## 📊 GitHub Stats
