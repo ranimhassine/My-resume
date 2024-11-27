@@ -1,4 +1,4 @@
-# Ranim Hassine - Cybersecurity Enthusiast 👨‍💻
+# Ranim Hassine - Cybersecurity Enthusiast 👨‍💻 
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ranimhassine/Resume)
 ![GitHub repo size](https://img.shields.io/github/repo-size/ranimhassine/Resume)
