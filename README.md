@@ -42,6 +42,7 @@
 2. **Blue Team Homelab**
 3. **Portable Pentesting Lab**
 4. **Password Generator and Manager**
+5. **AI driven cybrsecurity solution**
 
 ## 🌟 Volunteer Work
 
