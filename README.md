@@ -18,6 +18,7 @@
 
 ## 💼 Work Experience
 
+- **BugBounty research Intern** at Spark-IT (August 2024 - Novermber 2024)
 - **Cybersecurity Intern** at Spark-IT (June 2024 - Present)
 - **R&D Intern** at Techinventors TN Group (July 2023)
 - **Intern** at Draexlmaier (August 2023)
