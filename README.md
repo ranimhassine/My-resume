@@ -65,7 +65,7 @@
 
 - Email: ranimhassine@gmail.com
 - LinkedIn: [ranimhassine](https://www.linkedin.com/in/ranimhassine)
-- GitHub: [ranimhassine](https://github.com/ranimhassine)
+- GitHub: [ranimhassine](https://github.com/ranimhassine) 
 
 ---
 
