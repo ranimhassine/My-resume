@@ -1,7 +1,7 @@
 # Ranim Hassine - Cybersecurity Enthusiast 👨‍💻   
   
-![GitHub last commit](https://img.shields.io/github/last-commit/ranimhassine/Resume)
-![GitHub repo size](https://img.shields.io/github/repo-size/ranimhassine/Resume)
+![GitHub last commit](https://img.shields.io/github/last-commit/ranimhassine/My-resume)
+![GitHub repo size](https://img.shields.io/github/repo-size/ranimhassine/My-resume)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ranimhassine/)](https://www.linkedin.com/in/ranimhassine/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ranimhassine)](https://github.com/ranimhassine)
 
